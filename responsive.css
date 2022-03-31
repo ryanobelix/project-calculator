@@ -1,0 +1,13 @@
+/* Resolusi Tablet */
+@media all and (max-width: 888px) {
+  .calculator {
+    width: 100%;
+  }
+}
+
+/* Resolusi Smartphone */
+@media all and (max-width: 720px) {
+  .calculator {
+    width: 100%;
+  }  
+}
