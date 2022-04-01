@@ -78,7 +78,7 @@ const calculate = () => {
             result = Math.log(parseFloat(prevNumber)).
             break
         default:
-            return
+            break
     }
     let fixedNum = result
     currentNumber = Math.round((fixedNum + Number.EPSILON)*100000) / 100000
