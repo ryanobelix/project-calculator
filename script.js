@@ -74,9 +74,6 @@ const calculate = () => {
         case "tan":
             result = Math.tan(parseFloat(prevNumber))
             break
-        case "log":
-            result = Math.log(parseFloat(prevNumber)).
-            break
         default:
             break
     }
